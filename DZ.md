@@ -10,3 +10,4 @@
 
 *git commit*
 
+**функция git log**
