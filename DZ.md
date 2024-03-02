@@ -16,4 +16,6 @@
 
 2 git log oneleni 
 
-3 git chekout  выбор версии 
+3 git chekout  eweg выhбор версии 
+
+
