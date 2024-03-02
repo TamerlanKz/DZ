@@ -1,7 +1,7 @@
 ## Проверка статуса 
-
-* git status 
-
+'''sh
+git status 
+'''
 ## Добавил файл в гит 
 
 * git add DZ.md
@@ -17,3 +17,14 @@
 2 git log oneleni 
 
 3 git chekout  выбор версии 
+
+## Отображение всех веток
+
+'''sh
+
+git branch'''
+
+
+
+
+
