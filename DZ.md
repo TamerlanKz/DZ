@@ -24,6 +24,11 @@ git status
 
 git branch'''
 
+## Переключения между ветками 
+'''Sh
+git checkout <Название веток>
+'''
+
 
 
 
