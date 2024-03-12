@@ -85,3 +85,5 @@ _git pull_
 2) lда конечно
 3) ввести в  командную строку
  __git push origin --delete new_branch__
+
+ lf lf lf 
