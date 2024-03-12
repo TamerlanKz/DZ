@@ -39,10 +39,22 @@ fewiuhg
 
  ## web ssilka
 
- Текст [пример ссылки] (http.vk.com "save ssilka")
+ Текст [пример ссылки](http.vk.com "save ssilka")
  evjndvb
 
 # Как добавлять каритнки в мак давн 
 
  для того чтобы добавить картинку в МД
  ![Cote](kotapa.jpg)
+
+ # Команда git branch проверка в какой мы ветке 
+
+ __git branch__
+
+ # Команда для сличния веток 
+ ## git merge
+  ![git merge](git-merge.png)
+
+## Работали с файлом .gitignore
+![ignore](ignore.jpg)
+
